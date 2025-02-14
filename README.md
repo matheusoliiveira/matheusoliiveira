@@ -47,7 +47,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/snake.svg" alt="Snake animation" />
-
-###
