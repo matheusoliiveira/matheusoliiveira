@@ -3,12 +3,12 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusoliiveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusoliiveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=html,css" height="150" alt="languages graph" />
 </div>
 
-###
+### -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Node.js" />
@@ -48,13 +48,6 @@
 ###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <a href="mailto:matheus.felipee.oliveira@gmail.com" target="_blank">
