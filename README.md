@@ -47,6 +47,15 @@
 
 ###
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusoliiveira/matheusoliiveira/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="center">
   <a href="mailto:matheus.felipee.oliveira@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
